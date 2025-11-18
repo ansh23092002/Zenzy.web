@@ -7,6 +7,7 @@ import Hero from './components/Hero'
 import Navbar from './components/Navbar'
 import Story from './components/Story'
 import Contect from './components/Contect'
+import Demo from './components/demo'
 
 function App() {
 
@@ -22,6 +23,8 @@ function App() {
       <Contect/>
       <Footer/>
     </main>
+   
+    
   )
 }
 
